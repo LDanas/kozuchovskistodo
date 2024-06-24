@@ -1,8 +1,6 @@
 
 # To-do Liste
 
-![To-do Liste Screenshot](path/to/screenshot.png)
-
 Eine einfache und intuitive To-do Liste Anwendung, um dir zu helfen, deine Aufgaben effizient zu verwalten. Dieses Projekt wurde entwickelt, um die Produktivität zu steigern, indem es dir ermöglicht, tägliche Aufgaben im Auge zu behalten und sicherzustellen, dass nichts vergessen wird.
 
 ## Funktionen
